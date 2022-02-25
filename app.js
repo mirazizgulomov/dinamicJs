@@ -17,9 +17,9 @@ let p2=document.createElement('p');
 let p3=document.createElement('p');
 
 
-img.src="./img/rasm1.jpg";
-img2.src="./img/rasm2.jpg";
-img3.src="./img/rasm3.jpg";
+img.src="./rasm1.jpg";
+img2.src="./rasm2.jpg";
+img3.src="./rasm3.jpg";
 
 
 p.innerHTML='Lorem Ipsum dolar sit amet, consectuter'; 
